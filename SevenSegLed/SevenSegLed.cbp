@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SevenSegLed"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\cmake\;CMake Files\cmake\Platform\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="upload">
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 upload"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SevenSegLed-upload">
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 SevenSegLed-upload"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SevenSegLed-size">
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 SevenSegLed-size"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SevenSegLed">
+				<Option output="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/SevenSegLed.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include-fixed"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 SevenSegLed"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SevenSegLed/fast">
+				<Option output="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/SevenSegLed.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include-fixed"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 SevenSegLed/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mega_CORE">
+				<Option output="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/libmega_CORE.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include-fixed"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 mega_CORE"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mega_CORE/fast">
+				<Option output="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/libmega_CORE.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/aefreedman/Documents/CLionProjects/SevenSegLed"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/include-fixed"/>
+					<Add directory="/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/../lib/gcc/avr/4.9.2/../../../../avr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 mega_CORE/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/aefreedman/Documents/CLionProjects/SevenSegLed/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/CDC.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Client.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial0.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial1.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial2.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial3.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/HardwareSerial_private.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/IPAddress.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/IPAddress.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/PluggableUSB.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/PluggableUSB.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Print.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Printable.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Server.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Stream.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Tone.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBAPI.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBCore.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBCore.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/USBDesc.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Udp.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WCharacter.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WInterrupts.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WMath.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/WString.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/abi.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/binary.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/hooks.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/main.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/new.cpp">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/new.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_analog.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_digital.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_private.h">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_pulse.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/wiring_shift.c">
+			<Option target="mega_CORE"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/SevenSegLed.ino">
+			<Option target="SevenSegLed"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/SevenSegLed_SevenSegLed.ino.cpp">
+			<Option target="SevenSegLed"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/SevenSegLed_SevenSegLed.ino.cpp.rule">
+			<Option target="SevenSegLed"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/cmake/ArduinoToolchain.cmake">
+			<Option virtualFolder="CMake Files\cmake\"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/cmake/Platform/Arduino.cmake">
+			<Option virtualFolder="CMake Files\cmake\Platform\"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/cmake/Platform/Arduino.cmake">
+			<Option virtualFolder="CMake Files\cmake\Platform\"/>
+		</Unit>
+		<Unit filename="/Users/aefreedman/Documents/CLionProjects/SevenSegLed/cmake/Platform/Arduino.cmake">
+			<Option virtualFolder="CMake Files\cmake\Platform\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
